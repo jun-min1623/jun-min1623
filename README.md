@@ -1,9 +1,12 @@
-### Hi there 👋
-![header](https://capsule-render.vercel.app/api?type=wave&color=auto&height=300&section=header&text=capsule%20render&fontSize=90)
+![header](https://capsule-render.vercel.app/api?type=wave&color=auto&height=300&section=header&text=Welcome to July's Git&fontSize=90)
 
 
 ![jun-min's GitHub stats](https://github-readme-stats.vercel.app/api?username=jun-min1623&show_icons=true&theme=radical)
 
+
+
+
+### Hi there 👋
 
 # 💪Skills
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white)
