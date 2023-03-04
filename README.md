@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=jun-min1623&show_icons=true&theme=radical)
+
 <!--
 **jun-min1623/jun-min1623** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
