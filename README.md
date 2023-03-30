@@ -31,7 +31,7 @@
   <a href="http://www.yes24.com/Product/Goods/22744867">SQL 첫걸음<a>
     
   ### Reach my Book reviews!
-    https://july-6.tistory.com/
+    <a href="https://july-6.tistory.com/">MY Tistory<a>
    
 </div>
 
