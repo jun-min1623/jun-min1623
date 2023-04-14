@@ -28,7 +28,7 @@
  # Book
   
   ### 📫 I'm currently reading...
-  <a href="http://www.yes24.com/Product/Goods/22744867">SQL 첫걸음<a>
+  <a>NoSQL<a>
     
   ### Reach my Book reviews!
   <a href="http://july-6.tistory.com/">MY Tistory<a>
